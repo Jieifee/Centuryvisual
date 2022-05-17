@@ -1,0 +1,129 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+    
+        <meta charset="UTF-8">
+        <meta name="keywords" content="decouverte, cote d'ivoire, abidjan, world, tourisme; new; communication; etudiant">
+        <title>services</title>
+        <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+        <link rel="stylesheet" href="http://inviis.com/combine/5968d597504c7a2ef1ce5a4edc198231-1441752649">
+    
+    </head>
+
+	
+	<style>
+
+	/*
+		CENTRER ET SUPERPOSER
+	*/
+
+	.box {
+		display: flex;
+		justify-content: center;
+		align-items: center;
+		min-height: 100vh;
+	}
+
+	.modal {
+		position: fixed;
+
+		opacity: 0;
+		visibility: hidden;
+
+		transition: 0.4s;
+	}
+
+	/*
+		PLACE A LA MAGIE
+	*/
+
+	button:focus + .modal {
+		opacity: 1;
+		visibility: visible;
+	}
+	
+
+
+	/*
+		Style pour rendre l'effet sympa.
+		Pas nécessaire pour créer le modal.
+	*/
+		body {
+			margin: 0;
+			padding: 0;
+			background-color: #EEEEEE;
+			color: #1d1d1d;
+		}
+		.box {
+			font-family: 'Roboto', sans-serif;
+		}
+		button {
+			width: 33%;
+			background-color: #2196F3;
+			font-family: 'Roboto', sans-serif;
+			font-size: 24px;
+			border: none;
+			border-radius: 4px;
+			color: white;
+			padding: 10px;
+			cursor: pointer;
+		}
+		.modal {
+			width: 50%;
+			height: 70vh;
+
+			display: flex;
+			justify-content: center;
+			align-items: center;
+
+			background-color: white;
+			border-radius: 4px;
+			box-shadow: 0px 30px 70px rgba(0,0,0,0.3);
+		}
+		span {
+	  	position: absolute;
+	  	bottom: 30px;
+	  	right: 50px;
+	  	font-size: 20px;
+	  	cursor: pointer;
+	  	font-weight: bold;
+	  	color: #2196F3;
+	  }
+	  span:hover {
+	    color: #2b8fdb;
+	  }
+	</style>
+
+</head>
+
+<body>
+    <nav style="margin-bottom:30px;">
+        <div class="nav-wrapper">
+            <a href="#" class="brand-logo"><img src="CENTURY VISUAL.png" class="my-logo responsive-img"></a>
+    
+            <ul id="nav-mobile" class="side-nav right">
+                <li class="active "><a href="mon site web.html">Accueil</a></li>
+                <li class=""><a href="services.html">About</a></li>
+                <li class=""><a href="contact.html">Contact</a></li>
+            </ul>
+    
+            <a href="#" data-activates="nav-mobile" class="button-collapse"><i class="material-icons">menu</i></a>
+        </div>
+    </nav>
+    
+	<div class="box">
+		<button>Clique</button>
+		<div class="modal">
+			<span>ANNULER</span>
+  		<h1>c'est juste un text!</h1>
+          <h2>rien de serieux</h2>
+		</div>
+	</div>
+
+
+    <div class="footer-copyright white-text" style="background-color:#242222; bottom:0; position:fixed; height:40px; padding-top:10px; width:100%;">
+        <span style=" margin-left:30px; ">&copy; 2022 KING NATION GROUP </span>
+    </div>  
+        
+    </body>
+    </html>
