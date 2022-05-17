@@ -1,0 +1,116 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    
+    <meta charset="UTF-8">
+    <meta name="keywords" content="decouverte, cote d'ivoire, abidjan, world, tourisme; new; communication; etudiant">
+    <title>About</title>
+    <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+    <link rel="stylesheet" href="http://inviis.com/combine/5968d597504c7a2ef1ce5a4edc198231-1441752649">
+</head>
+<body id="inv-top">
+
+    <nav style="margin-bottom:30px;">
+    <div class="nav-wrapper">
+        <a href="#" class="brand-logo"><img src="CENTURY VISUAL.png" class="my-logo responsive-img"/></a>
+
+        <ul id="nav-mobile" class="side-nav right">
+            <li class=""><a href="/">Accueil</a></li>
+            <li class=""><a href="services">About</a></li>
+            <li class=""><a href="contact">Contact</a></li>
+        </ul>
+
+        <a href="#" data-activates="nav-mobile" class="button-collapse"><i class="material-icons">menu</i></a>
+    </div>
+</nav>
+    <div class="row hide-on-med-and-down">
+    <div class="col l6 offset-l3">
+        <div class="row">
+            <div class="col l3">
+                <div class="hexagon center-align" id="start-logo" style="margin-top:40px;">
+                    <img src="1024px-Basilique_Notre-Dame_de_la_Paix_Yamoussoukro.jpg" class="responsive-img" style="width:90px; margin-top:5px;"/>
+                </div>
+            </div>
+            <div class="col l3">
+                <div class="hexagon center-align" id="mvas" style="margin-top:40px;">
+                    <span class="white-text text-lighten-3" style="margin-top: 2px;">mobile</span>
+                    <h5 class="white-text text-lighten-3" style="margin-top: 2px;">VAS</h5>
+                </div>
+            </div>
+            <div class="col l3">
+                <div class="hexagon center-align" id="web-dev" style="margin-top:40px;">
+                    <span class="white-text text-lighten-3" style="margin-top: 2px;">solutions</span>
+                    <h5 class="white-text text-lighten-3" style="margin-top: 2px;">WEB</h5>
+                </div>
+            </div>
+            
+        </div>
+        <div class="row" >
+            <div class="col l3 offset-s1">
+                <div class="hexagon center-align" id="it-con" style="margin-top:40px; margin-top:40px; margin-left:40px;">
+                    <span class="black-text" style="margin-top: 2px;">conseil</span>
+                    <h5 class="black-text" style="margin-top: 2px;">IT</h5>
+                </div>
+            </div>
+            <div class="col l3">
+                <div class="hexagon center-align" id="wifi" style="margin-top:40px; margin-top:40px; margin-left:40px;">
+                    <span class="white-text text-lighten-3" style="margin-top: 2px;">advertising</span>
+                    <h5 class="white-text text-lighten-3" style="margin-top: 2px;">WiFi</h5>
+                </div>
+            </div>
+            <div class="col l3">
+                <div class="hexagon center-align" id="o2o" style="margin-top:40px; margin-top:40px; margin-left:40px;">
+                    <span class="white-text text-lighten-3" style="margin-top: 2px;">solutions</span>
+                    <h5 class="white-text text-lighten-3" style="margin-top: 2px;">O2O</h5>
+                </div>
+            </div>
+            
+        </div>
+    </div>
+</div>
+
+<div class="row hide-on-large-only">
+    <div class="col s10 m8 offset-s1 offset-m2">
+        <img src="http://inviis.com/themes/inviis-mate/assets/images/top-about.png" class="responsive-img" style="width:100%;"/>
+     </div>
+</div>
+
+
+<div class="row">
+    <div class="col s12 m8 offset-m2" >
+        <p><strong style="color:#e64a19">
+            InViis
+        </strong> est née en mai 2015 de la fusion des savoir-faire en marketing et en TIC de ses fondateurs, qui après une analyse de l'utilisation des TIC dans les business locaux se sont rendu compte des faiblesses des modeles existants.</p>
+        <p> <strong style="color:#e64a19">
+            InViis
+        </strong> a donc décidé de se positionner comme développeur et intégrateur de solutions à valeur ajoutée afin d'accompagner les entreprises burkinabé et sous-regionales dans leurs projets d'innovation et de marketing. </p>
+        
+        <p>L'approche de travail de <strong style="color:#e64a19">InViis</strong> est basée sur une solide connaissance des technologies et sur une analyse détaillée des business locaux, afin d'offrir des solutions qui s’adaptent au mieux au besoins du marché.</p>
+        
+    </div>
+</div>
+
+<div class="footer-copyright white-text" style="background-color:#bf360c; bottom:0; position:fixed; height:40px; padding-top:10px; width:100%;">
+    <span style=" margin-left:30px; ">&copy; 2022 KING NATION GROUP</span>
+</div>  
+    
+   
+   <!-- <script src="//code.jquery.com/jquery-1.11.2.min.js"></script> -->
+    <script src="http://inviis.com/combine/189b5d6cf6c01248c938fd47dc9a6bcf-1441752672"></script>
+    <script>
+	  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+	  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+	  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+	  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+	
+	  ga('create', 'UA-68987956-1', 'auto');
+	  ga('require', 'linkid');
+	  ga('send', 'pageview');
+	
+    </script>
+
+    <script src="/modules/system/assets/js/framework.js"></script>
+<script src="/modules/system/assets/js/framework.extras.js"></script>
+<link href="/modules/system/assets/css/framework.extras.css" rel="stylesheet">
+    </body>
+</html>
